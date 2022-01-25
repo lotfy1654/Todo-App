@@ -6,9 +6,9 @@ import AddItems from "./component/AddItem/AddItems";
 class App extends React.Component {
   state = {
     itemsData: [
-      { id: 1, name: "HTML Course", age: 20 },
-      { id: 2, name: "Css Course", age: 22 },
-      { id: 3, name: "JavaScript Course", age: 40 },
+      { id: 1, name: "Task 1", age: 20 },
+      { id: 2, name: "Task 2", age: 22 },
+      { id: 3, name: "Task 3", age: 40 },
     ],
   };
 
